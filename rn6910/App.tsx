@@ -64,6 +64,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     position: 'absolute',
+    top: 300,
     borderWidth: 1,
     borderColor: 'black',
     backgroundColor: '#fff',
